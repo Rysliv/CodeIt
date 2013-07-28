@@ -1,5 +1,10 @@
 Platform
-	World of Warcraft 4.0.6
+	Windows, Linux.
 
-Current version (revision)
-	r0001 v0.0 - Development Begins
+Milestones
+	0			Begin
+				This is the start of development.
+
+Current version
+	Milestone 0
+				r0000 v0.0 - Development Begins (July 27, 2013)

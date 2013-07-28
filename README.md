@@ -1,3 +1,3 @@
 READ ME
 
-Abandoned for now. =[
+This repo is for experimental and educational purposes. (Non-Commercial)
